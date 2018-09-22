@@ -1,2 +1,4 @@
-# tryout.gitpages.3672518.xyz
-try out git pages : tryout.gitpages.3672518.xyz
+# tryout.gitpages.github.io
+
+try out git pages : tryout.gitpages.github.io
+
